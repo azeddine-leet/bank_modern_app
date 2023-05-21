@@ -1,8 +1,10 @@
-import React from 'react'
+import styles from './style'
 
 function App() {
   return (
-    <div>App</div>
+    <div className='bg-primary w-full overflow-hidden'>
+
+    </div>
   )
 }
 
